@@ -2,17 +2,19 @@
 
 ## EDUCATION AND HONORS
 ***
-### Indian Institute of Technology Roorkee, Uttarakhand, India   
-Master of Technology in Electronics and Communication Engineering (M.Tech) <p align="right">07/2021 - 07/2023</p>
+**Indian Institute of Technology Roorkee**, Uttarakhand, India   
+Master of Technology in Electronics and Communication Engineering (M.Tech)
+*July 2023*
+- Major: Communication System and Signal Processing
+- Study in India (SII) Scholarship
+- Relevent Coursework: Machine Learning, Linear Algebra, Compressed Sensing, Information Theory and Coding, Detection and Estimation Theory
+ 
 
-
-Major: Communication System and Signal Processing
-
-### Bachelor in Engineering Electronics and Communication
-
-M. S. Ramaiah Institute of Technology, Bangalore, India
-
-08/2013 - 08/2017
+**M. S. Ramaiah Institute of Technology**, Bangalore, India
+Bachelor in Engineering Electronics and Communication (B.E)
+*Aug 2017*   
+- EdCIL (Indian Government) Scholarship
+- Relevent Coursework: Neural Networks and Fuzzy systems, OOP, Data Structures, Probability & Discrete Mathematics, Data Science Statistics
 
 ## Work Experience
 
