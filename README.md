@@ -2,8 +2,10 @@
 
 ## EDUCATION AND HONORS
 ***
-**Indian Institute of Technology Roorkee**, Uttarakhand, India   
+**Indian Institute of Technology Roorkee**, Uttarakhand, India
+
 Master of Technology in Electronics and Communication Engineering (M.Tech)
+
 *July 2023*
 - Major: Communication System and Signal Processing
 - Study in India (SII) Scholarship
@@ -11,7 +13,9 @@ Master of Technology in Electronics and Communication Engineering (M.Tech)
  
 
 **M. S. Ramaiah Institute of Technology**, Bangalore, India
+
 Bachelor in Engineering Electronics and Communication (B.E)
+
 *Aug 2017*   
 - EdCIL (Indian Government) Scholarship
 - Relevent Coursework: Neural Networks and Fuzzy systems, OOP, Data Structures, Probability & Discrete Mathematics, Data Science Statistics
