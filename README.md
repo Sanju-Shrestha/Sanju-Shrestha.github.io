@@ -1,12 +1,10 @@
 # Data Scientist with ML and Deep Learning experience
 
-## Education
+## EDUCATION AND HONORS
+***
+### Indian Institute of Technology Roorkee, Uttarakhand, India   
+Master of Technology in Electronics and Communication Engineering (M.Tech) <p align="right">07/2021 - 07/2023</p>
 
-### Master of Technology in Electronics and Communication Engineering
-
-Indian Institute of Technology Roorkee, Uttarakhand, India
-
-07/2021 - 07/2023
 
 Major: Communication System and Signal Processing
 
