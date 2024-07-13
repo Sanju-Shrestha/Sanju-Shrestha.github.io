@@ -21,12 +21,14 @@ Bachelor in Engineering Electronics and Communication (B.E)
 - Relevent Coursework: Neural Networks and Fuzzy systems, OOP, Data Structures, Probability & Discrete Mathematics, Data Science Statistics
 
 ## Work Experience
+***
+**Python and Artificial Intelligence Faculty**, KFA Business School & IT, Kathmandu
 
-### Python and Artificial Intelligence Faculty, KFA Business School & IT, Kathmandu
-11/2023 - Present
+*11/2023 - Present*
 
-### Senior Officer IT, KFA Pvt. Ltd., Kathmandu 
-03/2018 - 07/2021
+**Senior Officer IT**, KFA Pvt. Ltd., Kathmandu 
+
+*03/2018 - 07/2021*
 - Applied analytical methodologies to derive actionable intelligence, enhancing the organization's ability to make informed and data-driven decisions.
 - Spearheaded strategic IT initiatives, providing foresight and senior-level guidance to align technology efforts with organizational goals.
 - Led the design of robust technical architectures, ensuring alignment with organizational objectives.
@@ -34,8 +36,9 @@ Bachelor in Engineering Electronics and Communication (B.E)
 - Integrated data analysis into decision-making processes, leveraging insights for strategic planning.
     
 
-### Intern, LI2 Innovation, Bangalore 
-01/2016 - 08/2016
+**Intern, LI2 Innovation, Bangalore** 
+
+*01/2016 - 08/2016*
 - Designed and developed various embedded modules and projects, including a prototype for an "Obstruction Detecting robot with Smart sidelights" using Raspberry Pi and Arduino platforms.
 - Prepared a project on Arduino-based robotics titled "Face detection robot."
 - Built an Arduino-based "Solar-powered Motion Sensor Smart Night Light."
@@ -43,41 +46,48 @@ Bachelor in Engineering Electronics and Communication (B.E)
 - Organized, coordinated, and conducted training and workshops on electronic modules at education and entrepreneur levels.
 
 ## Projects
+***
+**Customer Churn Prediction using Machine Learning** 
 
-### Customer Churn Prediction using Machine Learning 
-10/2023 - 11/2023
+*10/2023 - 11/2023*
 - Developed a machine learning model to predict customer churn in a banking context, leveraging diverse features such as credit score, geography, age, and more. Implemented data preprocessing techniques to enhance model accuracy, including outlier removal and feature engineering.
 - Explored multiple machine learning models, including Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machines, Gradient Boosting, and LightGBM. Employed robust feature scaling and hyper-parameter tuning for optimal performance, providing the bank with a powerful tool for anticipating and addressing customer exits.
 
-### Non-Invasive Neuroimaging-based Automated Epilepsy Detection 
-01/2022 - 06/2023
+**Non-Invasive Neuroimaging-based Automated Epilepsy Detection** 
+
+*01/2022 - 06/2023*
 - Employed innovative N-cylinder-based feature engineering techniques combined with advanced machine learning methodologies. This project significantly advanced epilepsy detection using non-invasive neuroimaging data, facilitating early diagnosis and refining treatment strategies.
 
-### Riemannian Approach-based Depression Classification using Transfer Learning for MEG Signals
-04/2022 - 06/2022
+**Riemannian Approach-based Depression Classification using Transfer Learning for MEG Signals**
+
+*04/2022 - 06/2022*
 - An award-winning project for the BIOMAG 2022 'Ketamine for Depression' challenge developed a novel Riemannian approach-based classification framework for accurately identifying depression using Transfer Learning techniques applied to MEG signals.
 - By leveraging the power of Transfer Learning and incorporating Riemannian geometry, our framework effectively captured the unique characteristics of depression in MEG signals, surpassing existing methodologies and holding promising implications for improving diagnosis and understanding of depression.
 
-### Text-Based Classification for Document Categorization
-02/2021 - 03/2021
+**Text-Based Classification for Document Categorization**
+
+*02/2021 - 03/2021*
 - Developed a machine learning NLP model for document categorization, emphasizing the use of textual data. The project involved text preprocessing, feature extraction using TF-IDF and Bag of Words, and the implementation of classification algorithms such as SVM, Random Forest, Naive Bayes, and xgBoost.
 - Explored various classification algorithms, with SVM exhibiting superior performance. Identified challenges in distinguishing classes with overlapping vocabulary, emphasizing the need for nuanced feature extraction techniques for more accurate categorization.
 
-### Automated Data Management for Quest Pharmaceuticals, Nepal
-07/2021 - 08/2021
+**Automated Data Management for Quest Pharmaceuticals, Nepal**
+
+*07/2021 - 08/2021*
 - Pioneered the development and implementation of a user-friendly and automated Excel form using VBA during my tenure at KFA. Transformed data management for Quest Pharmaceuticals, Nepal, contributing to enhanced efficiency and streamlined processes.
 
-### Google Analytics Analysis for Online Courses
-08/2020 - 09/2020
+**Google Analytics Analysis for Online Courses**
+
+*08/2020 - 09/2020*
 - Analyzed user behavior within KFA's online courses using Google Analytics data. Investigated various parameters such as course details, website interactions, and engagement patterns. The study aimed to uncover valuable insights into user preferences and interactions to enhance the overall online learning experience.
 
-### Secure Online Shopping using Fingerprint Verification
-08/2016 - 05/2017
+**Secure Online Shopping using Fingerprint Verification**
+
+*08/2016 - 05/2017*
 - A novel approach to improve the current status of security during online transactions by including the process of biometric verification (Fingerprint).
 - Elimination of One Time Password (OTP) generation reducing the time taken for online shopping.
 
 ## Skills
-
+***
 ### Technical Skills
 - Predictive Modeling (Experienced), Data Modeling, Unit Testing, Natural Language Processing, Critical Analysis, Statistical Analysis, Predictive Analysis, Machine Learning Algorithms
 
