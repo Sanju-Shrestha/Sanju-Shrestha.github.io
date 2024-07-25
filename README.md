@@ -47,6 +47,13 @@ Bachelor in Engineering Electronics and Communication (B.E)
 
 ## Projects
 ***
+**Application Tracking System Web App** 
+
+*1/2024*
+- Created an ATS web application to help in the screening of resumes efficiently. Combined the recently developed Google Gemini AI models with OpenAI to deliver its analysis and suggestions in regards to job descriptions. Included convenient options like the possibility to upload the resume in the PDF format and the option to input the job description in the text.
+- Applied superior NLP methods for extracting and analyzing the quintessential resume data to the existing application. Used custom CSS for its proper and appealing look on user interface. It also provides an option of general feedback that will enable the users to have an insight of the resume match percentage, missing keywords, and profile summary that is very essential to the job seekers. 
+
+
 **Customer Churn Prediction using Machine Learning** 
 
 *10/2023 - 11/2023*
