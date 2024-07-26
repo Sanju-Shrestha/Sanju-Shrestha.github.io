@@ -96,20 +96,20 @@ Bachelor in Engineering Electronics and Communication (B.E)
 ## Skills
 ***
 ### Technical Skills
-- Predictive Modeling (Experienced), Data Modeling, Unit Testing, Natural Language Processing, Critical Analysis, Statistical Analysis, Predictive Analysis, Machine Learning Algorithms
+- Predictive Modeling (Experienced), Data Modeling, Unit Testing, Natural Language Processing, Critical Analysis, Statistical Analysis, Predictive Analysis, Machine Learning Algorithms, Computer Vision.
 
 ### Mathematical Foundations
 - Statistics, Linear Algebra, Calculus, Probability
 
 ### Tools and Software
-- Python, C, Matlab, Scikit-Learn, Numpy, TensorFlow, SciPy, Flask, Git and Github, Docker, MySQL
+- Python, C, Matlab, Scikit-Learn, Numpy, TensorFlow, SciPy, OpenCV, Streamlit, Flask, Git and Github, Docker, MySQL
 
 ### Programming Skills
 - Object Oriented Programming (OOP), Data Structures and Algorithms (DSA)
 
 ## Papers & Publications
-- S. K. Varun, T. K. Reddy Bollu, and S. Shrestha, "Automatic Seizure Detection Employing Machine Learning-Based Late Fusion Techniques Over Behind-the-Ear and the Scalp EEG Signals," 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON), Mysore, India, 2023, pp. 1-4, doi: 10.1109/INDISCON58499.2023.10270088.
-- Acknowledged contributor in the paper titled "A Meditation Based Cognitive Therapy (HMBCT) for Primary Insomnia: A Treatment Feasibility Pilot Study," published in Applied Psychophysiology and Biofeedback (2023). The acknowledgment highlights my instrumental role in statistical and mathematical analysis, contributing crucial insights to the research methodology. This acknowledgment underscores my proficiency in applying advanced statistical techniques to enhance the study's robustness. [DOI: 10.1007/s10484-023-09586-2]
+- S. K. Varun, T. K. Reddy Bollu, and S. Shrestha, "Automatic Seizure Detection Employing Machine Learning-Based Late Fusion Techniques Over Behind-the-Ear and the Scalp EEG Signals," 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON), Mysore, India, 2023, pp. 1-4, doi: 10.1109/INDISCON58499.2023.10270088 [link](https://ieeexplore.ieee.org/abstract/document/10270088).
+- Acknowledged contributor in the paper titled "A Meditation Based Cognitive Therapy (HMBCT) for Primary Insomnia: A Treatment Feasibility Pilot Study," published in Applied Psychophysiology and Biofeedback (2023). The acknowledgment highlights my instrumental role in statistical and mathematical analysis, contributing crucial insights to the research methodology. This acknowledgment underscores my proficiency in applying advanced statistical techniques to enhance the study's robustness. [DOI: 10.1007/s10484-023-09586-2] [link](https://basilhealth.ai/wp-content/uploads/2023/04/Mantra_Meditation_Based_Cognitive_Therapy_for_Primary_Insomnia_.pdf)
 
 ## Achievements and Recognitions
 ### BIOMAG Data Analysis Competition 2022
