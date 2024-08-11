@@ -113,4 +113,4 @@ Bachelor in Engineering Electronics and Communication (B.E)
 
 ## Achievements and Recognitions
 ### BIOMAG Data Analysis Competition 2022
-- Achieved 1st position in the Ketamine in Depression Machine Learning Challenge, an international competition. Excelled in the classification problem, showcasing expertise in machine learning and a strategic approach to problem-solving [link](http://ece.iitr.ac.in/vendors/images/slider/slide8v.png).
+- Achieved 1st position in the Ketamine in Depression Machine Learning Challenge, an international competition. Excelled in the classification problem, showcasing expertise in machine learning and a strategic approach to problem-solving [link](http://eceold.iitr.ac.in/vendors/images/slider/slide8v.png).
