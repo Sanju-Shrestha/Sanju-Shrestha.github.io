@@ -47,18 +47,19 @@ Bachelor in Engineering Electronics and Communication (B.E)
 
 ## Projects
 ***
+**Customer Churn Prediction using MLOps** 
+
+*9/2024 - 10/2024*
+- Developed a machine learning model to predict customer churn in an online retail context, utilizing a diverse range of features such as user demographics, browsing behavior, transaction history, and membership details. Implemented an ETL pipeline to extract, transform, and load data from MongoDB Atlas, and applied data preprocessing techniques such as missing value imputation, feature engineering, and data transformation to improve model accuracy.
+- Explored multiple machine learning models, with a focus on LightGBM, to predict customer churn risk scores ranging from 1 to 5. Leveraged techniques such as feature scaling, hyperparameter tuning, and cross-validation to optimize performance, providing the business with a robust solution for predicting and mitigating customer churn.
+- Link to access the [GitHub Repository](https://github.com/Sanju-Shrestha/Customer-Churn-Prediction) and [DagsHub Repository](https://dagshub.com/Sanju-Shrestha/Customer-Churn-Prediction)
+
 **Application Tracking System Web App**
 
-*01/2024*
+*12/2023*
 - Created an ATS web application to help in the screening of resumes efficiently. Combined the recently developed Google Gemini AI models with OpenAI to deliver its analysis and suggestions in regards to job descriptions. Included convenient options like the possibility to upload the resume in the PDF format and the option to input the job description in the text.
 - Applied superior NLP methods for extracting and analyzing the quintessential resume data to the existing application. Used custom CSS for its proper and appealing look on user interface. It also provides an option of general feedback that will enable the users to have an insight of the resume match percentage, missing keywords, and profile summary that is very essential to the job seekers.
 - Link to access the web application [Application Tracking System Web App](https://ats-webapp.streamlit.app/)
-
-**Customer Churn Prediction using Machine Learning** 
-
-*10/2023 - 11/2023*
-- Developed a machine learning model to predict customer churn in a banking context, leveraging diverse features such as credit score, geography, age, and more. Implemented data preprocessing techniques to enhance model accuracy, including outlier removal and feature engineering.
-- Explored multiple machine learning models, including Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machines, Gradient Boosting, and LightGBM. Employed robust feature scaling and hyper-parameter tuning for optimal performance, providing the bank with a powerful tool for anticipating and addressing customer exits.
 
 **Non-Invasive Neuroimaging-based Automated Epilepsy Detection** 
 
