@@ -22,9 +22,10 @@ Bachelor in Engineering Electronics and Communication (B.E)
 
 ## Work Experience
 ***
-**Python and Artificial Intelligence Faculty**, KFA Business School & IT, Kathmandu
+**Faculty - Python, Artificial Intelligence, and Embedded Systems | BCS IT Program**, KFA Business School & IT, Kathmandu
 
 *11/2023 - Present*
+- Teaching critical computer science subjects including Python (PHN127), Embedded Systems (EMSM-245), and Artificial Intelligence (AFI353) to 2nd, 4th, and 5th semester BCS IT students. Leading engaging lectures, hands-on labs, and project-based assessments aimed at integrating foundational knowledge with practical application in AI, IoT, and advanced programming techniques.
 
 **Senior Officer IT**, KFA Pvt. Ltd., Kathmandu 
 
