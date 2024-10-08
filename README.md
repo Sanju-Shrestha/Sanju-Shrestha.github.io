@@ -7,7 +7,7 @@
 Master of Technology in Electronics and Communication Engineering (M.Tech)
 
 *July 2023*
-- Major: Communication System and Signal Processing
+- Major: Communication, Network and Signal Processing
 - Study in India (SII) Scholarship
 - Relevent Coursework: Machine Learning, Linear Algebra, Compressed Sensing, Information Theory and Coding, Detection and Estimation Theory
  
