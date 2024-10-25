@@ -92,8 +92,8 @@ Bachelor in Engineering Electronics and Communication (B.E)
 **Secure Online Shopping using Fingerprint Verification**
 
 *08/2016 - 05/2017*
-- A novel approach to improve the current status of security during online transactions by including the process of biometric verification (Fingerprint).
-- Elimination of One Time Password (OTP) generation reducing the time taken for online shopping.
+- Developed a secure online shopping platform leveraging Python and the Minutiae Matching Algorithm (MMA) for real-time fingerprint-based authentication. Replaced OTP-based verification to reduce dependency on mobile devices, enhancing security against unauthorized transactions. Built a full-stack application with MySQL for secure data storage, XAMPP for server management, and a user-friendly web interface using PHP, HTML, and CSS.
+- - Link to access the [GitHub Repository](https://github.com/Sanju-Shrestha/Secure-Online-Shopping-Using-Fingerprint-Verification/) 
 
 ## Skills
 ***
