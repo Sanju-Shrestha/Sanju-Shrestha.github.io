@@ -93,7 +93,7 @@ Bachelor in Engineering Electronics and Communication (B.E)
 
 *08/2016 - 05/2017*
 - Developed a secure online shopping platform leveraging Python and the Minutiae Matching Algorithm (MMA) for real-time fingerprint-based authentication. Replaced OTP-based verification to reduce dependency on mobile devices, enhancing security against unauthorized transactions. Built a full-stack application with MySQL for secure data storage, XAMPP for server management, and a user-friendly web interface using PHP, HTML, and CSS.
-- - Link to access the [GitHub Repository](https://github.com/Sanju-Shrestha/Secure-Online-Shopping-Using-Fingerprint-Verification/) 
+- Link to access the [GitHub Repository](https://github.com/Sanju-Shrestha/Secure-Online-Shopping-Using-Fingerprint-Verification/) 
 
 ## Skills
 ***
